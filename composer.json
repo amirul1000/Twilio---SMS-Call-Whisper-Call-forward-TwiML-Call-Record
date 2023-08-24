@@ -1,0 +1,17 @@
+{
+    "name": "am/tw",
+    "require": {
+        "twilio/sdk": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Am\\Tw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amirul Momenin",
+            "email": "amirrucst@gmail.com"
+        }
+    ]
+}
